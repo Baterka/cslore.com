@@ -19,6 +19,7 @@ List of components we have decided to post are linked below.
 | Script | README |
 | ------ | ------ |
 | Mysterybox Prize Generator | [backend/nodejs/mysterybox/README.md][CSmb] |
+| Coinflip Side Generator | [backend/nodejs/coinflip/README.md][CSmb] |
 
 ### Todos
 
@@ -36,3 +37,4 @@ MIT
 [express]: <http://expressjs.com>
 
 [CSmb]: <https://github.com/Baterka/csgo.style/tree/master/backend/nodejs/mysterybox/README.md>
+[CScf]: <https://github.com/Baterka/csgo.style/tree/master/backend/nodejs/coinflip/README.md>
