@@ -18,7 +18,7 @@ List of components we have decided to post are linked below.
 
 | Script | README |
 | ------ | ------ |
-| Mysterybox Prize Generator | [backend/nodejs/mysterybox/README.md] [CSmb] |
+| Mysterybox Prize Generator | [backend/nodejs/mysterybox/README.md][CSmb] |
 
 ### Todos
 
