@@ -35,4 +35,4 @@ MIT
 [@tjholowaychuk]: <http://twitter.com/tjholowaychuk>
 [express]: <http://expressjs.com>
 
-[CSmb]: <https://github.com/Baterka/csgo.style/backend/nodejs/mysterybox/README.md>
+[CSmb]: <https://github.com/Baterka/csgo.style/tree/master/backend/nodejs/mysterybox/README.md>
