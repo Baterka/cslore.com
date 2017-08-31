@@ -13,6 +13,7 @@ var mb_nextwin = {
 var mb_fee = 10; //%
 var mb_fees = 0; //lifetime fees
 
+//Generate mysterybox prize
 function generatePrize(box_type) {
 	var fee = ((mb_nextwin[box_type] - mb_prices[box_type]) / 100) * mb_fee;
 	if (mb_bank <= -(mb_nextwin[box_type] + fee)) {
