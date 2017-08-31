@@ -20,6 +20,7 @@ List of components we have decided to post are linked below.
 | ------ | ------ |
 | Mysterybox Prize Generator | [backend/nodejs/mysterybox/README.md][CSmb] |
 | Coinflip Side Generator | [backend/nodejs/coinflip/README.md][CSmb] |
+| Roulette Number Generator | [backend/nodejs/roulette/README.md][CSr] |
 
 ### Todos
 
@@ -38,3 +39,4 @@ MIT
 
 [CSmb]: <https://github.com/Baterka/csgo.style/tree/master/backend/nodejs/mysterybox/README.md>
 [CScf]: <https://github.com/Baterka/csgo.style/tree/master/backend/nodejs/coinflip/README.md>
+[CSr]: <https://github.com/Baterka/csgo.style/tree/master/backend/nodejs/roulette/README.md>
