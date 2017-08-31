@@ -1,4 +1,4 @@
-# csgo.style - Mysterybox
+# csgo.style - Roulette
 
 Minigame based on Casino Roulette (Simplified).
 
