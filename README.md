@@ -2,7 +2,7 @@
 
 This repository contains some public features of ~~[csgo.style](https://www.csgo.style)~~ gambling site.
 
-#### <span style="color:red">Website canceled, development stopped</span>
+#### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `Website canceled, development stopped`
 
 ### Tech
 
