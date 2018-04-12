@@ -1,6 +1,8 @@
 # csgo.style - CS:GO Betting site
 
-This repository contains some public features of [csgo.style](https://www.csgo.style) gambling site.
+This repository contains some public features of ~~[csgo.style](https://www.csgo.style)~~ gambling site.
+
+#### <span style="color:red">Website canceled, development stopped</span>
 
 ### Tech
 
