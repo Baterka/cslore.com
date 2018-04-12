@@ -1,8 +1,8 @@
 # csgo.style - CS:GO Betting site
 
-This repository contains some public features of ~~[csgo.style](https://www.csgo.style)~~ gambling site.
+### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Website canceled, development stopped! You can use it in your own project :) ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
-### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Website canceled, development stopped ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
+This repository contains some public features of ~~[csgo.style](https://www.csgo.style)~~ gambling site.
 
 ### Tech
 
@@ -26,12 +26,7 @@ List of components we have decided to post are linked below.
 
 ### Todos
 
- - Share more stuff
-
-License
-----
-
-MIT
+ - Nothing... Project cancelled
 
 [node.js]: <http://nodejs.org>
 [Twitter Bootstrap]: <http://twitter.github.com/bootstrap/>
