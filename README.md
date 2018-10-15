@@ -2,7 +2,7 @@
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Website canceled, development stopped! You can use it in your own project :) ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
-This repository contains some public features of ~~[csgo.style](https://www.csgo.style)~~ gambling site.
+This repository contains some public features of ~~[cslore.com](https://cslore.com)~~ gambling site.
 
 ### Tech
 
