@@ -1,4 +1,4 @@
-# csgo.style - CS:GO Betting site
+# cslore.com - CS:GO Betting site
 
 ### ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) Website canceled, development stopped! You can use it in your own project :) ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)
 
